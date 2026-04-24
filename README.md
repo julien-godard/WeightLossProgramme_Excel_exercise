@@ -1,4 +1,4 @@
-# Excel_Data_Manipulation_Project
+# Excel Data Manipulation Project
 
 Using Excel and Power Query to showcase various data analysis skills (linking data, data manipulation, formulas, pivot tables).
 
